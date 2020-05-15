@@ -73,6 +73,6 @@ Pycharm has a free community version that you can download from https://www.jetb
 # Installing github 
 
 You will find it useful to download programs and homework assignments using 
-git instead of relying on the email etc. Kids do not need to commit codes, they just need to download the latest version using git clone. Pycharm comes 
-with a built in git client but we do not really need to use it since 
-kids won't be committing anything at present. 
+git instead of relying on  email or google drive.  Kids do not need to commit code, they just need to download the latest version using git clone. 
+Pycharm also comes with a built in git client bnt  will post instructions for the 
+command line git. Download and install the "windows setup" and not the "portable" distribution. from https://git-scm.com/download/win . 
