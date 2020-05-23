@@ -91,12 +91,11 @@ If the setup works, you should see the following outputs
 | ![](./setup/console.png) <!-- .element height="50%" width="50%" -->  | ![](./setup/plot.png)<!-- .element height="50%" width="50%" -->|
 
 
-Possible idea for kids: 
+Possible activities: 
 
- * Show them the console output and ask them if they can make out the letter being shown. 
- * Ask them if they can figure out how to change "1"s to "x" in the console output. png image created by this program is saved in the same folder where you saved the python code. 
- * Explain the loop and the 2-D structure of the data and ask them if they 
- can explain the plot. This may not be easy. 
+ * Show kids the console output and ask them if they can make out the letter being shown. 
+ * Ask kids if they can figure out how to change "1"s to "x" in the console output. png image created by this program is saved in the same folder where you saved the python code. 
+ * Explain the loop and the 2-D structure of the data and ask kids why the plot looks like the way it does. This may not be easy. 
 
 # Advanced setup 
 This setup will be needed a little later when the kids get more familiar with 
