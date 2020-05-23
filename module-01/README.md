@@ -97,7 +97,7 @@ Possible activities:
  * Ask kids if they can figure out how to change "1"s to "x" in the console output. png image created by this program is saved in the same folder where you saved the python code. 
  * Explain the loop and the 2-D structure of the data and ask kids why the plot looks like the way it does. This may not be easy. 
 
-# Advanced setup 
+# Advanced setup (for later)
 This setup will be needed a little later when the kids get more familiar with 
 the basic idea of  editor based code writing. It is perfectly alright if you
 
