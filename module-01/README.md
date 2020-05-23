@@ -1,5 +1,5 @@
 # Objective 
-The objective of this module is 
+The objective of this module is to
  
   * Get the environments setup for kids. This is primarily for the parents. 
   * Start getting used to doing this (learning) remotely. 
