@@ -53,7 +53,6 @@ from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 
 def make_image(char, file_name):
-    
     img = Image. new('L', (40, 40))
     font = ImageFont.truetype("arial.ttf", 20)
     drawer = ImageDraw.Draw(img)
@@ -66,7 +65,6 @@ def read_image(file_name):
     print("Loaded data from file:{}. dimensions of imaged data:{}".format(file_name, img_data.shape))
     return img_data
     
-
 def png_to_ascii(img_data):
     x,y = img_data.shape
     for i in range(x):
@@ -92,6 +90,13 @@ If the setup works, you should see the following outputs
 | ------------- | ------------- |
 | ![](./setup/console.png) <!-- .element height="50%" width="50%" -->  | ![](./setup/plot.png)<!-- .element height="50%" width="50%" -->|
 
+
+Possible idea for kids: 
+
+ * Show them the console output and ask them if they can make out the letter being shown. 
+ * Ask them if they can figure out how to change "1"s to "x" in the console output. png image created by this program is saved in the same folder where you saved the python code. 
+ * Explain the loop and the 2-D structure of the data and ask them if they 
+ can explain the plot. This may not be easy. 
 
 # Advanced setup 
 This setup will be needed a little later when the kids get more familiar with 
