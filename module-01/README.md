@@ -45,7 +45,7 @@ This setup is intended to minimize struggles with the environment and toolchain.
 We will use ["Code with Mu"](https://codewith.mu/) editor for this. Download the 
 installer for your operating system and install it. 
 
-After installing this editor, create a new file and cut and paste the following code to test your setup: 
+After installing this editor, create a new file, cut and paste the following code  and run it to test your setup: 
 
 ```python
 import numpy as np
@@ -88,8 +88,10 @@ plt.show()
 
 ```
 If the setup works, you should see the following outputs 
-![](./setup/console.png) 
-![](./setup/plot.png)
+| Console output  | New window with plot |
+| ------------- | ------------- |
+| ![](./setup/console.png) <!-- .element height="50%" width="50%" -->  | ![](./setup/plot.png)<!-- .element height="50%" width="50%" -->|
+
 
 # Advanced setup 
 This setup will be needed a little later when the kids get more familiar with 
