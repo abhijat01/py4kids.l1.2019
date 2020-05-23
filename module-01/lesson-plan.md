@@ -32,14 +32,22 @@ print(remainder)
 
 ### Run the following code 
 ```python
-number_1 = input("Give me the first number please:")
-number_2 = input("Give me the possible factor please:")
+input_1 = input("Give me the first number please:")
+input_2 = input("Give me the possible factor please:")
 
-remainder = number_1 % number_2 
+remainder = input_1 % input_2 
 print(remainder) 
 ```
+Why does it not run? Hint - use:  ```number_1 = int(input_1)``` 
 
-What does the fix mean? 
+
+* Finish making all changes so that the remainder is printed correctly. 
+* What does the fix mean? 
+* Write another joke as a program.
+
+
+
+
 
 
 
