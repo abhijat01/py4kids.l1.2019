@@ -23,8 +23,10 @@ def png_to_ascii(img_data):
         for j in range(y):
             d = img_data[i,j]
             if d>0:
-                d = 1
+                d = "."
                 img_data[i,j] = 255
+            else:
+                d = ' '
             print(d, end="")
         print()
     return img_data

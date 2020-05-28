@@ -1,4 +1,4 @@
-# Objective 
+# Plan 
 
 * Introduction to computers - hardware, OS, types of memory, programs etc. 
 * Demonstrate how to use an editor to write code and then run it. 
@@ -43,7 +43,7 @@ Why does it not run? Hint - use:  ```number_1 = int(input_1)```
 
 * Finish making all changes so that the remainder is printed correctly. 
 * What does the fix mean? 
-* Write another joke as a program.
+* Write another joke in python.
 
 
 
