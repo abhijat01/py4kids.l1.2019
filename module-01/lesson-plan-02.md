@@ -44,6 +44,20 @@ c = b%a
 print(c)  
 ```
 
+# Booleans and if condition 
+
+* Comparison operator and booleans  
+* Modulo operator along with boolean 
+## Homework 
+Finish the following code to return true input `a` is divisible by input `b` . 
+
+```python 
+def is_divisible(a, b):
+    answer = False 
+    return answer 
+```
+
+
 # Keeping track of more than one thing at a time 
 
 ```python
