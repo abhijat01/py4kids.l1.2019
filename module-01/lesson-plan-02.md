@@ -73,6 +73,6 @@ What does ``for`` do ? What about the indents? What is the "`:`"?
 ## Complex Two dimensional data, homework 
 ![](./code-02/joke_matrix.png)<!-- .element height="50%" width="50%" -->|
 
-You can download the Joke code by [clicking here](./code-02/joke_matrix.py)
+You can download the Joke code by [clicking here](https://raw.githubusercontent.com/abhijat01/py4kids.l1.2019/master/module-01/code-02/joke_matrix.py)
 
 
