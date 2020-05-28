@@ -56,7 +56,7 @@ def is_divisible(a, b):
     answer = False 
     return answer 
 ```
-[Download the code](https://raw.githubusercontent.com/abhijat01/py4kids.l1.2019/master/module-01/code-02/joke_matrix.py) , 
+[Download the code](https://raw.githubusercontent.com/abhijat01/py4kids.l1.2019/master/module-01/code-02/div.py) , 
 make changes to the `is_divisible()` section and see if you can get it to work
 
 # Keeping track of more than one thing at a time 
