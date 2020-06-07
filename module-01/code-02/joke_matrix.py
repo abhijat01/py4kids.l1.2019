@@ -49,6 +49,3 @@ joke_table = make_joke_puzzle()
 print_joke_table(joke_table, 3, 7)
 answer_sequence = [(1,5), (2,4),(1,0), ( 2,0)]
 print_answer(joke_table,answer_sequence)
-
-import date
-print(date.today)

@@ -8,8 +8,8 @@ for i in [0,1,2]:
     print()
 
 while True:
-    i = input("I:")
-    j = input("J:")
+    i = input("Please enter row index (i):")
+    j = input("Please enter column index (j):")
     i = int(i)
     j = int(j)
     print("--->{}<---".format(table[i][j]))
